@@ -1,0 +1,1251 @@
+{
+  "source": "ESPN public team schedules",
+  "generatedAt": "2026-10-17T09:55:19.135Z",
+  "timeZone": "America/Chicago",
+  "games": [
+    {
+      "id": "401872660",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Bills",
+      "start": "2026-09-13T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872930",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Giants",
+      "away": "Cowboys",
+      "start": "2026-09-14T00:20:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872934",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Bengals",
+      "start": "2026-09-20T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872944",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Commanders",
+      "start": "2026-09-20T20:25:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872951",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Colts",
+      "away": "Texans",
+      "start": "2026-09-27T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872960",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Ravens",
+      "start": "2026-09-27T20:25:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872967",
+      "league": "nfl",
+      "teams": [
+        "dal",
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Cowboys",
+      "start": "2026-10-04T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872980",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Buccaneers",
+      "start": "2026-10-09T00:15:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872984",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Titans",
+      "away": "Texans",
+      "start": "2026-10-11T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401872996",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Jaguars",
+      "away": "Texans",
+      "start": "2026-10-18T13:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873007",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Packers",
+      "away": "Cowboys",
+      "start": "2026-10-19T00:20:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909090",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Thunder",
+      "start": "2026-10-21T01:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909096",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Rockets",
+      "start": "2026-10-24T01:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909858",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Mavericks",
+      "away": "Spurs",
+      "start": "2026-10-25T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873016",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Giants",
+      "start": "2026-10-25T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873009",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Eagles",
+      "away": "Cowboys",
+      "start": "2026-10-27T00:15:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909879",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Kings",
+      "start": "2026-10-28T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909890",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Jazz",
+      "away": "Spurs",
+      "start": "2026-10-29T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909901",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Timberwolves",
+      "start": "2026-11-01T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873024",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Cardinals",
+      "start": "2026-11-01T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909917",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Jazz",
+      "start": "2026-11-03T01:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909933",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Mavericks",
+      "start": "2026-11-05T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909295",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Kings",
+      "away": "Spurs",
+      "start": "2026-11-07T03:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909944",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Trail Blazers",
+      "away": "Spurs",
+      "start": "2026-11-08T03:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873040",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Colts",
+      "away": "Cowboys",
+      "start": "2026-11-08T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873046",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Chargers",
+      "away": "Texans",
+      "start": "2026-11-08T21:05:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909958",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Suns",
+      "away": "Spurs",
+      "start": "2026-11-10T02:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909969",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Bulls",
+      "away": "Spurs",
+      "start": "2026-11-12T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909302",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Warriors",
+      "start": "2026-11-14T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873056",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Browns",
+      "away": "Texans",
+      "start": "2026-11-15T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873063",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "49ers",
+      "start": "2026-11-15T21:25:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909988",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Jazz",
+      "away": "Spurs",
+      "start": "2026-11-15T22:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910004",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Pistons",
+      "start": "2026-11-18T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910022",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Clippers",
+      "start": "2026-11-20T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873066",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Colts",
+      "start": "2026-11-20T01:15:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910027",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Pelicans",
+      "start": "2026-11-22T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873073",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Titans",
+      "start": "2026-11-22T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910045",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Kings",
+      "away": "Spurs",
+      "start": "2026-11-24T03:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909325",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Trail Blazers",
+      "away": "Spurs",
+      "start": "2026-11-26T03:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873080",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Eagles",
+      "start": "2026-11-26T21:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909333",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Lakers",
+      "start": "2026-11-28T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873085",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Ravens",
+      "start": "2026-11-29T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910052",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Celtics",
+      "start": "2026-11-29T21:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910066",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Bucks",
+      "away": "Spurs",
+      "start": "2026-12-01T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910088",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Raptors",
+      "start": "2026-12-04T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873107",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Steelers",
+      "away": "Texans",
+      "start": "2026-12-07T01:20:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873108",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Seahawks",
+      "away": "Cowboys",
+      "start": "2026-12-08T01:15:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873113",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Commanders",
+      "away": "Texans",
+      "start": "2026-12-13T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910102",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Clippers",
+      "start": "2026-12-14T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910115",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Cavaliers",
+      "away": "Spurs",
+      "start": "2026-12-16T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910123",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Raptors",
+      "away": "Spurs",
+      "start": "2026-12-17T00:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910144",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Bulls",
+      "start": "2026-12-19T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873132",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Jaguars",
+      "start": "2026-12-20T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873136",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Rams",
+      "away": "Cowboys",
+      "start": "2026-12-20T21:25:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910155",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Pelicans",
+      "away": "Spurs",
+      "start": "2026-12-21T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910166",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Bucks",
+      "start": "2026-12-22T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910176",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Nets",
+      "away": "Spurs",
+      "start": "2026-12-24T00:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873140",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Eagles",
+      "away": "Texans",
+      "start": "2026-12-25T01:15:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909097",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Knicks",
+      "away": "Spurs",
+      "start": "2026-12-25T17:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910202",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Hawks",
+      "start": "2026-12-28T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873154",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Jaguars",
+      "start": "2026-12-28T01:20:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910215",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Grizzlies",
+      "away": "Spurs",
+      "start": "2026-12-30T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910226",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Hornets",
+      "away": "Spurs",
+      "start": "2026-12-31T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910235",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Wizards",
+      "away": "Spurs",
+      "start": "2027-01-01T22:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873165",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Cowboys",
+      "away": "Giants",
+      "start": "2027-01-03T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910257",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Timberwolves",
+      "away": "Spurs",
+      "start": "2027-01-04T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873171",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Packers",
+      "away": "Texans",
+      "start": "2027-01-05T01:15:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910277",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Pacers",
+      "start": "2027-01-07T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910295",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Grizzlies",
+      "start": "2027-01-09T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401873175",
+      "league": "nfl",
+      "teams": [
+        "dal"
+      ],
+      "home": "Commanders",
+      "away": "Cowboys",
+      "start": "2027-01-10T05:00:00.000Z",
+      "timeSet": false
+    },
+    {
+      "id": "401873187",
+      "league": "nfl",
+      "teams": [
+        "hou"
+      ],
+      "home": "Texans",
+      "away": "Titans",
+      "start": "2027-01-10T05:00:00.000Z",
+      "timeSet": false
+    },
+    {
+      "id": "401910305",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Hawks",
+      "away": "Spurs",
+      "start": "2027-01-10T20:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910334",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Pelicans",
+      "start": "2027-01-14T19:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910357",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Pelicans",
+      "away": "Spurs",
+      "start": "2027-01-17T15:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910383",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Heat",
+      "start": "2027-01-21T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910396",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Timberwolves",
+      "start": "2027-01-23T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910406",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Trail Blazers",
+      "start": "2027-01-24T20:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910424",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Rockets",
+      "start": "2027-01-27T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910433",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Hornets",
+      "start": "2027-01-28T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910453",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Warriors",
+      "away": "Spurs",
+      "start": "2027-01-30T22:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910473",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Warriors",
+      "away": "Spurs",
+      "start": "2027-02-02T03:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910480",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Clippers",
+      "away": "Spurs",
+      "start": "2027-02-03T03:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910494",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Magic",
+      "start": "2027-02-05T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910511",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Lakers",
+      "start": "2027-02-07T01:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910533",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Mavericks",
+      "away": "Spurs",
+      "start": "2027-02-10T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910551",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Thunder",
+      "away": "Spurs",
+      "start": "2027-02-12T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910564",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Magic",
+      "away": "Spurs",
+      "start": "2027-02-14T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401909479",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Heat",
+      "away": "Spurs",
+      "start": "2027-02-15T22:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910590",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Grizzlies",
+      "away": "Spurs",
+      "start": "2027-02-18T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910596",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Timberwolves",
+      "away": "Spurs",
+      "start": "2027-02-19T00:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910613",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Grizzlies",
+      "start": "2027-02-27T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910623",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Nuggets",
+      "start": "2027-02-28T18:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910653",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Nuggets",
+      "away": "Spurs",
+      "start": "2027-03-04T03:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910667",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Rockets",
+      "away": "Spurs",
+      "start": "2027-03-06T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910678",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Knicks",
+      "start": "2027-03-08T00:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910694",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Wizards",
+      "start": "2027-03-10T01:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910707",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "76ers",
+      "start": "2027-03-12T00:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910728",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Thunder",
+      "away": "Spurs",
+      "start": "2027-03-14T18:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910745",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Rockets",
+      "away": "Spurs",
+      "start": "2027-03-17T00:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910762",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Nets",
+      "start": "2027-03-19T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910768",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Mavericks",
+      "start": "2027-03-20T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910784",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "76ers",
+      "away": "Spurs",
+      "start": "2027-03-21T23:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910803",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Celtics",
+      "away": "Spurs",
+      "start": "2027-03-24T23:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910813",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Pacers",
+      "away": "Spurs",
+      "start": "2027-03-25T23:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910824",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Pistons",
+      "away": "Spurs",
+      "start": "2027-03-27T19:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910846",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Suns",
+      "start": "2027-03-30T01:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910861",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Suns",
+      "start": "2027-04-01T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910879",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Clippers",
+      "away": "Spurs",
+      "start": "2027-04-03T02:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910894",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Lakers",
+      "away": "Spurs",
+      "start": "2027-04-05T02:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910903",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Kings",
+      "start": "2027-04-07T00:00:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910912",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Cavaliers",
+      "start": "2027-04-07T23:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910932",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Nuggets",
+      "start": "2027-04-10T01:30:00.000Z",
+      "timeSet": true
+    },
+    {
+      "id": "401910947",
+      "league": "nba",
+      "teams": [
+        "sa"
+      ],
+      "home": "Spurs",
+      "away": "Trail Blazers",
+      "start": "2027-04-12T00:30:00.000Z",
+      "timeSet": true
+    }
+  ]
+}

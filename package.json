@@ -1,0 +1,20 @@
+{
+  "name": "unai-game-day",
+  "version": "0.1.0",
+  "description": "Which Cowboys, Texans and Spurs games are on this week, in San Antonio time. Shared by United Network AI restaurant sites.",
+  "license": "UNLICENSED",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": { "types": "./src/index.d.ts", "default": "./src/index.js" },
+    "./schedule.json": "./data/schedule.json"
+  },
+  "files": ["src", "data", "scripts"],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "refresh": "node scripts/refresh.js",
+    "refresh:check": "node scripts/refresh.js --check"
+  },
+  "engines": { "node": ">=20" }
+}
